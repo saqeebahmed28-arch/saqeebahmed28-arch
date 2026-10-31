@@ -63,10 +63,12 @@ I am passionate about learning how data can be transformed into actionable insig
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
 
 ### Developer Tools & Environments
+![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Ubuntu Linux](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![WSL 2](https://img.shields.io/badge/WSL_2-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Linux / WSL](https://img.shields.io/badge/Linux_WSL-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 <br/>
 
