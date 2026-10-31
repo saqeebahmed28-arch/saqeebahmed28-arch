@@ -15,6 +15,7 @@
 [![Followers](https://img.shields.io/github/followers/saqeebahmed28-arch?style=flat-square&color=238636&labelColor=161b22&logo=github&label=Followers)](https://github.com/saqeebahmed28-arch?tab=followers)
 [![Stars](https://img.shields.io/github/stars/saqeebahmed28-arch?style=flat-square&color=238636&labelColor=161b22&logo=github&label=Total%20Stars)](https://github.com/saqeebahmed28-arch?tab=repositories&sort=stargazers)
 [![Profile Views](https://hits.sh/github.com/saqeebahmed28-arch.svg?style=flat-square&label=Profile%20Views&color=238636&labelColor=161b22)](https://github.com/saqeebahmed28-arch)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saqeeb%20Ahmed-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saqeeb-ahmed-0b34b2371)
 [![Email Contact](https://img.shields.io/badge/Email-saqeebahmed28%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white&color=161b22&labelColor=238636)](mailto:saqeebahmed28@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-saqeebahmed28--arch-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/saqeebahmed28-arch)
 
@@ -131,8 +132,8 @@ I'm eager to connect with fellow students, developers, and mentors. Whether you'
   <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 &nbsp;&nbsp;
-<a href="https://linkedin.com">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/saqeeb-ahmed-0b34b2371">
+  <img src="https://img.shields.io/badge/LinkedIn-Saqeeb%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 </div>
