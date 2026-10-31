@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" alt="Saqeeb Ahamed - Computer Science (Data Science)" width="100%" />
+<img src="assets/banner.png" alt="Saqeeb Ahamed - Computer Science (Data Science)" width="100%" />
 
 <br/>
 
